@@ -7,12 +7,12 @@ Our main investigation was on applying concepts of neural networks to linear alg
 
 **There are basically four main methods of stationary iterative methods**,
 
-i) Jacobi Iterative Method
-ii) Gauss-Seidel Iterative Method
-iii) Successive Overrelaxation (SOR)
-iv) Symmetric Successive Overrelaxation (SSOR)
+1. Jacobi Iterative Method
+2. Gauss-Seidel Iterative Method
+3. Successive Overrelaxation (SOR)
+4. Symmetric Successive Overrelaxation (SSOR)
 
 **But we focused on**,
 
-i) Jacobi Iterative Method
-ii) Gauss-Seidel Iterative Method
+1. Jacobi Iterative Method
+2. Gauss-Seidel Iterative Method
